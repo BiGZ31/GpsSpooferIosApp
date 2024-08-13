@@ -48,6 +48,11 @@ We’re committed to continuous improvement. Stay tuned for more features and up
 
 Your feedback is invaluable! Please share your thoughts and suggestions by opening an issue.
 
+## 👀 Preview
+
+<img width="336" alt="image" src="https://github.com/user-attachments/assets/a66331c9-c114-440a-b450-cd6855b260de">
+
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
